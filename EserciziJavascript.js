@@ -7,7 +7,22 @@
     Output: somma = 15, media = 3
 */
 
+// Definizione dei cinque numeri
+var a = 1;
+var b = 2;
+var c = 3;
+var d = 4;
+var e = 5;
 
+// Calcolo della somma
+var somma = a + b + c + d + e;
+
+// Calcolo della media
+var media = somma / 5;
+
+// Stampare la somma e la media
+console.log("Somma: " + somma);
+console.log("Media: " + media);
 
 
 /*
